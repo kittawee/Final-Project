@@ -1,0 +1,7 @@
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Emgu\emgucv-windows-x86 2.3.0.1416\bin\Emgu.CV.License.txt
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Emgu\emgucv-windows-x86 2.3.0.1416\bin\pedestrian.png
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Emgu\emgucv-windows-x86 2.3.0.1416\bin\Example.PedestrianDetection.exe
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Emgu\emgucv-windows-x86 2.3.0.1416\bin\Example.PedestrianDetection.pdb
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Emgu\emgucv-windows-x86 2.3.0.1416\Emgu.CV.Example\PedestrianDetection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Emgu\emgucv-windows-x86 2.3.0.1416\Emgu.CV.Example\PedestrianDetection\obj\Debug\Example.PedestrianDetection.exe
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Emgu\emgucv-windows-x86 2.3.0.1416\Emgu.CV.Example\PedestrianDetection\obj\Debug\Example.PedestrianDetection.pdb

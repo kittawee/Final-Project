@@ -1,0 +1,11 @@
+<Car> 
+  <Data> 
+    <IDCar>1</IDCar> 
+    <IDPlate>ปน 5583</IDPlate> 
+    <PlateProvince>กรุงเทพมหานคร</PlateProvince>
+    <Name>กิจทวี</Name>
+    <Surname>คงพันธุ์</Surname>
+    <Status>Student</Status>
+    <Tel>08-2325-3787</Tel>
+  </Data>
+</Car>

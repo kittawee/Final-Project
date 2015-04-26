@@ -1,0 +1,191 @@
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\Parking_System.exe
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\Parking_System.pdb
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\obj\x86\Debug\Parking_System.Form1.resources
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\obj\x86\Debug\Parking_System.Properties.Resources.resources
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\obj\x86\Debug\Parking_System.exe
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\obj\x86\Debug\Parking_System.pdb
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\ZedGraph.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.xml
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.UI.xml
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\Emgu.Util.xml
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.UI.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\Emgu.Util.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\cudart32_40_17.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\cufft32_40_17.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\cvextern.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\cvextern_gpu.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\npp32_40_17.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_calib3d231.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_contrib231.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_core231.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_features2d231.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_ffmpeg.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_flann231.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_gpu231.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_highgui231.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_imgproc231.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_legacy231.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_ml231.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_objdetect231.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\opencv_video231.dll
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Parking_System\bin\Debug\ZedGraph.xml
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Parking_System\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.ML.dll
+C:\Users\PostMan\documents\visual studio 2010\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.ML.xml
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\1.jpg
+D:\Projects\Work Thesis\Parking_System\Parking_System\obj\x86\Debug\Parking_System.exe
+D:\Projects\Work Thesis\Parking_System\Parking_System\obj\x86\Debug\Parking_System.pdb
+D:\Projects\Work Thesis\Parking_System\Parking_System\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Work Thesis\Parking_System\Parking_System\obj\x86\Debug\Parking_System.Form1.resources
+D:\Projects\Work Thesis\Parking_System\Parking_System\obj\x86\Debug\Parking_System.Properties.Resources.resources
+D:\Projects\Work Thesis\Parking_System\Parking_System\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Work Thesis\Parking_System\Parking_System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\DataPlate\1.jpg
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\cudart32_40_17.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\cufft32_40_17.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\cvextern.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\cvextern_gpu.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\npp32_40_17.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_calib3d231.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_contrib231.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_core231.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_features2d231.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_ffmpeg.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_flann231.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_gpu231.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_highgui231.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_imgproc231.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_legacy231.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_ml231.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_objdetect231.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\opencv_video231.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\Parking_System.exe
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\Parking_System.pdb
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\Emgu.CV.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\Emgu.CV.GPU.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\Emgu.CV.ML.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\Emgu.CV.UI.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\Emgu.Util.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\ZedGraph.dll
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\Emgu.CV.xml
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\Emgu.CV.GPU.xml
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\Emgu.CV.ML.xml
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\Emgu.CV.UI.xml
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\Emgu.Util.xml
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\ZedGraph.xml
+D:\Projects\Work Thesis\Parking_System\Parking_System\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\10.jpg
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\2.jpg
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\3.jpg
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\4.jpg
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\5.jpg
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\6.jpg
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\7.jpg
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\8.jpg
+C:\Users\PostMan\Documents\Visual Studio 2010\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\9.jpg
+D:\Parking_System\Parking_System\obj\x86\Debug\Parking_System.exe
+D:\Parking_System\Parking_System\obj\x86\Debug\Parking_System.pdb
+D:\Parking_System\Parking_System\bin\Debug\cudart32_40_17.dll
+D:\Parking_System\Parking_System\bin\Debug\cufft32_40_17.dll
+D:\Parking_System\Parking_System\bin\Debug\cvextern.dll
+D:\Parking_System\Parking_System\bin\Debug\cvextern_gpu.dll
+D:\Parking_System\Parking_System\bin\Debug\npp32_40_17.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_calib3d231.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_contrib231.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_core231.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_features2d231.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_ffmpeg.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_flann231.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_gpu231.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_highgui231.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_imgproc231.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_legacy231.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_ml231.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_objdetect231.dll
+D:\Parking_System\Parking_System\bin\Debug\opencv_video231.dll
+D:\Parking_System\Parking_System\bin\Debug\DataPlate\1.jpg
+D:\Parking_System\Parking_System\bin\Debug\DataPlate\10.jpg
+D:\Parking_System\Parking_System\bin\Debug\DataPlate\2.jpg
+D:\Parking_System\Parking_System\bin\Debug\DataPlate\3.jpg
+D:\Parking_System\Parking_System\bin\Debug\DataPlate\4.jpg
+D:\Parking_System\Parking_System\bin\Debug\DataPlate\5.jpg
+D:\Parking_System\Parking_System\bin\Debug\DataPlate\6.jpg
+D:\Parking_System\Parking_System\bin\Debug\DataPlate\7.jpg
+D:\Parking_System\Parking_System\bin\Debug\DataPlate\8.jpg
+D:\Parking_System\Parking_System\bin\Debug\DataPlate\9.jpg
+D:\Parking_System\Parking_System\bin\Debug\Parking_System.exe
+D:\Parking_System\Parking_System\bin\Debug\Parking_System.pdb
+D:\Parking_System\Parking_System\bin\Debug\Emgu.CV.dll
+D:\Parking_System\Parking_System\bin\Debug\Emgu.CV.GPU.dll
+D:\Parking_System\Parking_System\bin\Debug\Emgu.CV.ML.dll
+D:\Parking_System\Parking_System\bin\Debug\Emgu.CV.UI.dll
+D:\Parking_System\Parking_System\bin\Debug\Emgu.Util.dll
+D:\Parking_System\Parking_System\bin\Debug\ZedGraph.dll
+D:\Parking_System\Parking_System\bin\Debug\Emgu.CV.xml
+D:\Parking_System\Parking_System\bin\Debug\Emgu.CV.GPU.xml
+D:\Parking_System\Parking_System\bin\Debug\Emgu.CV.ML.xml
+D:\Parking_System\Parking_System\bin\Debug\Emgu.CV.UI.xml
+D:\Parking_System\Parking_System\bin\Debug\Emgu.Util.xml
+D:\Parking_System\Parking_System\bin\Debug\ZedGraph.xml
+D:\Parking_System\Parking_System\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Parking_System\Parking_System\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Parking_System\Parking_System\obj\x86\Debug\Parking_System.Form1.resources
+D:\Parking_System\Parking_System\obj\x86\Debug\Parking_System.Properties.Resources.resources
+D:\Parking_System\Parking_System\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Parking_System\Parking_System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Parking_System\Parking_System\obj\x86\Debug\Parking_System.exe
+D:\Projects\Parking_System\Parking_System\obj\x86\Debug\Parking_System.pdb
+D:\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\1.jpg
+D:\Projects\Parking_System\Parking_System\bin\Debug\cudart32_40_17.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\cufft32_40_17.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\cvextern.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\cvextern_gpu.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\10.jpg
+D:\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\2.jpg
+D:\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\3.jpg
+D:\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\4.jpg
+D:\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\5.jpg
+D:\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\6.jpg
+D:\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\7.jpg
+D:\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\8.jpg
+D:\Projects\Parking_System\Parking_System\bin\Debug\DataPlate\9.jpg
+D:\Projects\Parking_System\Parking_System\bin\Debug\npp32_40_17.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_calib3d231.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_contrib231.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_core231.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_features2d231.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_ffmpeg.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_flann231.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_gpu231.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_highgui231.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_imgproc231.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_legacy231.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_ml231.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_objdetect231.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\opencv_video231.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\Parking_System.exe
+D:\Projects\Parking_System\Parking_System\bin\Debug\Parking_System.pdb
+D:\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.GPU.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.ML.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.UI.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\Emgu.Util.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\ZedGraph.dll
+D:\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.xml
+D:\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.GPU.xml
+D:\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.ML.xml
+D:\Projects\Parking_System\Parking_System\bin\Debug\Emgu.CV.UI.xml
+D:\Projects\Parking_System\Parking_System\bin\Debug\Emgu.Util.xml
+D:\Projects\Parking_System\Parking_System\bin\Debug\ZedGraph.xml
+D:\Projects\Parking_System\Parking_System\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Projects\Parking_System\Parking_System\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Parking_System\Parking_System\obj\x86\Debug\Parking_System.Form1.resources
+D:\Projects\Parking_System\Parking_System\obj\x86\Debug\Parking_System.Properties.Resources.resources
+D:\Projects\Parking_System\Parking_System\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Parking_System\Parking_System\obj\x86\Debug\GenerateResource.write.1.tlog
